@@ -8,6 +8,7 @@ Runix builds tools that take the friction out of working with AI — from callin
 |---|---|---|
 | [Runix Router](https://runixcloud.io/router) | One OpenAI-compatible endpoint for every model: routing, mid-request failover, key custody and per-request cost tracking | Early access |
 | [Runix Pipeline](https://runixcloud.io/pipeline) | Managed data preparation for AI: ingestion, cleaning, deduplication, schema-validated extraction, PII masking | In development |
+| [Runix Code](https://runixcloud.io/code) | An AI coding agent for teams — codebase-aware assistance, agentic tasks under review gates, seats and usage attribution | In development · waitlist open |
 | [Runix Comic](https://runixcloud.io/comic) | An end-to-end AI studio for comic dramas — script, characters and boards to panels, motion, voice and publishing | In development · waitlist open |
 
 ## Links
