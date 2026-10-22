@@ -1,20 +1,51 @@
-# Runix
+# Runix Lab
 
-**AI, made effortless.**
+**AI infrastructure, open learning, and engineering you can inspect.**
 
-Runix builds tools that take the friction out of working with AI — from calling models in production to shipping finished creative work.
+We build across storage, data, models, gateways and agents. Our public work
+pairs practical learning material with source code, reproducible examples and
+clear attribution. Runix Lab is operated by Runix AI Inc, Wyoming, United States.
 
-| Product | What it does | Status |
-|---|---|---|
-| [Runix Router](https://runixcloud.io/router) | One OpenAI-compatible endpoint for every model: routing, mid-request failover, key custody and per-request cost tracking | Early access |
-| [Runix Pipeline](https://runixcloud.io/pipeline) | Managed data preparation for AI: ingestion, cleaning, deduplication, schema-validated extraction, PII masking | In development |
-| [Runix Code](https://runixcloud.io/code) | An AI coding agent for teams — codebase-aware assistance, agentic tasks under review gates, seats and usage attribution | In development · waitlist open |
-| [Runix Comic](https://runixcloud.io/comic) | An end-to-end AI studio for comic dramas — script, characters and boards to panels, motion, voice and publishing | In development · waitlist open |
+### Learn with us — free and open
 
-## Links
+| Learning path | What you can do | Start here |
+| --- | --- | --- |
+| **AI for Science for programmers** | Read antibody and protein records, check provenance, and investigate data-quality failures. Chinese instruction; English overview. Six Python labs; some require network access. | [Take the course](https://ai4s.runixcloud.io) · [English overview](https://ai4s.runixcloud.io/en/) · [Code and materials](https://github.com/Runix-lab/ai4s-for-programmers) |
+| **Embodied AI data foundations** | Understand episodes, observation/action alignment and evaluation leakage. An introductory guide with an offline synthetic-data exercise, followed by primary-source reading. | [Read the guide](https://github.com/Runix-lab/.github/blob/main/learning/embodied-ai.md) |
 
-- Website — [runixcloud.io](https://runixcloud.io)
-- Engineering blog — [runixcloud.io/blog](https://runixcloud.io/blog/)
-- Contact — contact@runixcloud.io
+AI4S course text is **CC BY-SA 4.0**, and its code is **MIT**. The embodied guide
+is **CC BY 4.0**. See each resource's license before adapting or redistributing it;
+linked third-party datasets have their own terms. Learning resources are free
+to access and do not require a Runix subscription.
 
-Operated by Runix AI Inc, Wyoming, United States.
+### Build with the open-source projects
+
+**[Runix FS](https://github.com/Runix-lab/runix-fs)** — an AI filesystem based on
+Curvine, with the upstream history and Apache-2.0 attribution preserved.
+Explore the [architecture and development contracts](https://github.com/Runix-lab/runix-fs/tree/main/specs)
+and the [Linux validation workflow](https://github.com/Runix-lab/runix-fs/actions/workflows/runix-migration.yml).
+
+**[AI4S for Programmers](https://github.com/Runix-lab/ai4s-for-programmers/tree/main/labs)** —
+inspect the labs and sample-data generation rather than taking data-quality
+claims on trust. Start with a record, reproduce a failure, then check its source.
+
+### How this connects to Runix
+
+The [Runix platform](https://runixcloud.io) spans five layers: **FS → Data &
+Pipeline → Models → Router → Agents**. FS, Data, Models and Router are in early
+access; Pipeline, Code and Comic are in development. Public learning resources
+and open-source licenses are separate from commercial service availability.
+
+### Contribute and verify
+
+Report course errors with a source and a reproducible example in the
+[AI4S issue tracker](https://github.com/Runix-lab/ai4s-for-programmers/issues).
+For this profile or the embodied guide, [open an issue](https://github.com/Runix-lab/.github/issues)
+or read [how to contribute](https://github.com/Runix-lab/.github/blob/main/CONTRIBUTING.md).
+We distinguish upstream results, synthetic teaching examples and our own
+validation; a course completion document is not an accredited qualification.
+
+[Engineering notes](https://runixcloud.io/blog/) ·
+[Contact](mailto:contact@runixcloud.io)
+
+<sub>Profile and public learning links reviewed: 2026-10-21.</sub>
