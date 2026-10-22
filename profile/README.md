@@ -6,6 +6,13 @@ We build across storage, data, models, gateways and agents. Our public work
 pairs practical learning material with source code, reproducible examples and
 clear attribution. Runix Lab is operated by Runix AI Inc, Wyoming, United States.
 
+[![Runix Lab panorama: five layers from Runix FS and Data to Models, Router gateway and Agents. Early access and development status shown per product.](https://raw.githubusercontent.com/Runix-lab/.github/main/assets/runix-stack.png)](https://runixcloud.io)
+
+[FS](https://runixcloud.io/fs) · [Data](https://runixcloud.io/data) ·
+[Pipeline](https://runixcloud.io/pipeline) · [Models](https://runixcloud.io/models) ·
+[Router / Gateway](https://runixcloud.io/router) · [Code](https://runixcloud.io/code) ·
+[Comic](https://runixcloud.io/comic)
+
 ### Learn with us — free and open
 
 | Learning path | What you can do | Start here |
@@ -48,4 +55,4 @@ validation; a course completion document is not an accredited qualification.
 [Engineering notes](https://runixcloud.io/blog/) ·
 [Contact](mailto:contact@runixcloud.io)
 
-<sub>Profile and public learning links reviewed: 2026-10-21.</sub>
+<sub>Panorama and product status reviewed: 2026-10-22. Learning resources reviewed: 2026-10-21.</sub>

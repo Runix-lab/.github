@@ -21,3 +21,17 @@ Runix AI Inc. Align product names and status with https://runixcloud.io.
 Sustain credibility through runnable examples, correction history, explicit
 scope and maintained source attribution. Update the profile when actual content
 changes; do not stamp a new review date without checking its claims and links.
+
+## Stack panorama
+
+Embed `assets/runix-stack.png` near the top of the organization profile. Keep
+`assets/runix-stack.svg` as the editable source. Use the website's light/indigo
+palette and five layers: Agents, Gateway, Models, Data, Infrastructure. The
+customer's compute/cloud is an external foundation, not an additional product.
+Name the gateway Runix Router to preserve website identity. Show lifecycle
+labels per product, and keep learning distinct from commercial offerings.
+The image links to the canonical website; accessible alt text and individual
+product links accompany it. PNG is the GitHub display asset so rendering does
+not depend on SVG support or external diagram services. When editing, render
+and inspect the source, validate all seven product labels and links, and commit
+both source and image together.
